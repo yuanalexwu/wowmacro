@@ -1,0 +1,13 @@
+lightweight tag 6ccd3614c95b22dfb0e385366934e823511561ba 1.13.2.43
+Author:	Luxocracy <luxor355@gmail.com>
+Date:	Tue Nov 12 20:02:21 2019 +0100
+
+commit 6ccd3614c95b22dfb0e385366934e823511561ba
+Author: Luxocracy <luxor355@gmail.com>
+Date:   Tue Nov 12 20:00:02 2019 +0100
+
+    Improved the 'LocalVariable' verifier & 'General Aura Filters' Bug fix
+    
+    - Improved the function that verifies the existence of 'LocalVariables', in the panel options, to also verify their type.
+    - This should also have fixed the issues where 'General Aura Filters' wouldn't restore properly for certain characters.
+
