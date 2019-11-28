@@ -1,9 +1,0 @@
-## Interface: 11302
-## Title: RangeColors
-## Version: 2.4
-## Notes: Out of range and out of mana action button coloration
-## SavedVariables: RangeColors_SavedVars
-Localization.lua
-RangeColors.lua
-RangeColorsOptions.lua
-RangeColorsOptions.xml
